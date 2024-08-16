@@ -1,16 +1,18 @@
-## Hi there 👋
+### Boas vindas para meu perfil 🌸
 
-<!--
-**clebim21/clebim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e **CLEBISON CAUAN**.
 
-Here are some ideas to get you started:
+Estou esdudando _Alura_ ;).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguangem Javascript.
+
+Utilizo esse espaco para minha organizacao e conpartilhamento do meu projetos desenvolvidos.
+
+### Voce pode entrar em contato comigo.
+
+00001133751118sp@al.educacao.sp.gov.br.
+
+Clebimspeed99@gmail.com.
+
+![](
+<img src="https://media1.tenor.com/m/xWPaojwX8g0AAAAC/skeleton-meme.gif" alt="a yellow skeleton is standing on a concrete floor holding a bottle ."/>![image](https://github.com/user-attachments/assets/58c149e7-cccd-4987-9375-4c463d5a8958))
